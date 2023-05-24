@@ -1,0 +1,354 @@
+
+
+
+body{
+  
+    width:1vw;
+    height:400px;
+    background-image: url('bgimg.png'); 
+    background-repeat: no-repeat;
+    background-size: 1525px 775px;
+}
+
+
+.toptab{
+  display:flex;
+  height:50px;
+}
+.login{
+    border:none;
+    border-radius: 25px;
+    position: relative;top :15px;
+width:100px;
+height:50px
+}
+.signup{
+    background-color: black;
+    border:none;
+    border-radius: 25px;
+    position: relative;top :15px;
+width:100px;
+height:50px;
+margin-left: 20px;
+}
+.toptab .buttons{
+  margin-left: 1000px;
+  display: flex;
+}
+
+
+.menu{
+ margin-top: 20px;
+ margin-left: 30px;
+}
+
+.bar{
+    
+    width:17px;
+    height:2px;
+    background-color: black;
+    margin-top: 4px;
+}
+.logo p{
+    position: relative;top:-20px;
+    font-size:33px ;
+    font-family: sans-serif;
+}
+.logo {
+    margin-left: 20px;
+    width:170px;
+
+}
+.button1 p{
+    
+    font-family: sans-serif;
+   font-size: 15px;
+}
+.button2 p{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: white;
+}
+:placeholder-shown{
+    font-weight: bolder;
+}
+.mid{
+    display: flex;
+    margin-left: 50px;
+   
+}
+.mid1{
+   margin-top: 200px;;
+    margin-left: 50px;
+    
+
+}
+.mid1 p{
+    width:700px;
+    font-family: sans-serif;
+    font-size: 60px;
+   font-weight: bold;
+    
+}
+.mid3{
+    margin-left: 20px;   
+}
+.mid4{
+    margin-left: 20px;   
+}
+#location {
+    position:relative;left:0px;
+   background-color: white;
+    height:48px;
+    width:48px;
+}
+#location img{
+    height:50px;
+    width:px;
+}
+
+.mid2 input{
+
+width:510px;
+height:48px;
+border:none;
+
+
+}
+
+.time{
+    margin-left: 10px;
+}
+.time img{
+    height:50px;
+    width:px;  
+}
+.mid3{
+    position: relative;right:20px;
+}
+.mid3 select{
+    
+    width:200px;
+    height:50px;
+    border:none;
+    }
+.mid4 button{
+  
+    height:50px;
+    width: 110px;;
+    border:none;
+    background-color: black;
+    border-radius: 5px;
+}
+.mid4 p{
+    color: white;
+    font-family: sans-serif;
+}
+.mid5{
+    margin-left: 50px;;
+}
+.mid5 p{
+    
+    font-size: 15px;
+    font-family: sans-serif;
+    width: 500px;
+}
+select{
+    font-weight: bolder;
+}
+.belowmid{
+    
+    display:flex;
+    position: relative;top:400px;left:5px;
+    
+}
+
+.belowmid img{
+    width: 30vw;
+    margin-left:30px;
+}
+.belowmid p{
+    position: relative;left: 30px;
+}
+.caption{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.tag{
+    top: -25px;
+    font-family: sans-serif;
+    font-weight:500;
+}
+.belowmid2 {
+margin-top: 470px;
+margin-left: 40px;
+display:flex;
+}
+.belowmid2 .text2{
+    margin-top: 75px;
+} 
+
+div .text1{
+    width:350px;
+    font-size: 45px;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
+.belowmid2 .two{
+   margin-left: 40px;
+   margin-left: 890px;
+   width:150px;
+}
+div .text2{
+width:150px;
+font-family: sans-serif;
+
+font-weight: bold;
+}
+.map img{
+    margin-left: 40px;
+    width:1420px;
+}
+.belowmid3{
+    display:flex;
+}
+.belowmid3 p{
+    width:150px;
+    font-family: sans-serif;
+}
+.lineone{
+    margin-left: 50px;
+}
+ .linetwo{
+    margin-left: 250px;
+}
+.head{
+    display: flex;
+    margin-left: 48px;
+}
+.belowmid4 .two{
+  
+   margin-top: 60px;
+   font-family: sans-serif;
+    font-weight: bold;
+    width:200px;
+}
+.belowmid4 .dtwo{
+    margin-left: 760px;
+    width:250px;
+}
+.belowmid4 .one{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 500px;
+}
+.belowmid5{
+    display: flex;
+}
+.belowmid5 p{
+    width:150px;
+    font-family: sans-serif;
+}
+hr{
+    width:1500px;
+}
+.finallogo{
+    margin-top: 125px;
+    margin-left:40px;
+}
+.finallogo p{
+    position: relative;top:-20px;
+    font-size:33px ;
+    font-family: sans-serif;
+}
+.store{
+    display: flex;
+}
+.store div{
+    position:relative;left:0px;top:100px;
+    width:140px;
+    height:40px;
+    margin-left: 20px;
+}
+.store button{
+    border:none;
+    
+}
+.store img{
+    width:140px;
+    height:40px;
+    
+}
+.social{
+    margin-top: 200px;
+    margin-left: 10px;
+display: flex;
+}
+.social div{
+margin:20px;
+
+}
+.lastdiv p{
+    width:200px;
+    font-family: sans-serif;
+}
+.social img{
+    width:85%;
+    height:85%;
+    margin-left: 20px;
+}
+
+.lastdiv{
+    position: relative;top:-400px;left:600px;
+}
+.q{
+
+    display: flex;
+}
+.q div{
+    margin-left:200px;
+}
+.q p{
+    line-height: 1px;
+}
+
+.wone{
+    display: flex;
+    position: relative;left:100px;
+}
+.wtwo{
+    position: relative;right:100px;
+}
+.wtwo p{
+    width:1000px;
+}
+.wone .p{
+   
+    
+}
+ .wtwo p{
+ color: rgb(63, 63, 63);
+ font-family: sans-serif;
+}
+.wone p{
+    
+    color:rgb(63, 63, 63);
+    font-family: sans-serif;
+}
+.toptab div,.FindFood,.mid5 u ,.belowmid img,.belowmid p,.text2,.belowmid3 p,.belowmid5 p,.two,.store button,.social img,select:hover{
+    cursor: pointer;
+}
+.q p:hover{
+cursor: pointer;
+text-decoration:underline;
+}
+.wone p:hover{
+    cursor: pointer;
+text-decoration:underline;
+}
+
+
+
